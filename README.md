@@ -48,5 +48,4 @@
 ![input6](https://user-images.githubusercontent.com/56245966/113702826-3cc2e100-9704-11eb-983d-ea9d791f824e.png)
 ![output6](https://user-images.githubusercontent.com/56245966/113702999-73006080-9704-11eb-85ff-b3b37bc2f8aa.png)
 4. Semuanya akan tampak. Namun Class mampu memanggil sekaligus atau berkali-kali pada satu halaman, sedangkan ID tidak bisa di panggil lebih dari satu.
-# output
-![output6](https://user-images.githubusercontent.com/56245966/113701664-a17d3c00-9702-11eb-9774-ef6fe4feeed1.png)
+
